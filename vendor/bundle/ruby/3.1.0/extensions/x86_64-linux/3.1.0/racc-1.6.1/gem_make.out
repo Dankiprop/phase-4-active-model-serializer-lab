@@ -1,0 +1,17 @@
+current directory: /home/dan/phase-4/phase-4-active-model-serializer-lab/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/dan/phase-4/phase-4-active-model-serializer-lab/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221207-188277-2zuvao sitelibdir\=./.gem.20221207-188277-2zuvao clean
+
+current directory: /home/dan/phase-4/phase-4-active-model-serializer-lab/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221207-188277-2zuvao sitelibdir\=./.gem.20221207-188277-2zuvao
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/dan/phase-4/phase-4-active-model-serializer-lab/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221207-188277-2zuvao sitelibdir\=./.gem.20221207-188277-2zuvao install
+/bin/install -m 0755 cparse.so ./.gem.20221207-188277-2zuvao/racc
